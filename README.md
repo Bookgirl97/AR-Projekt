@@ -12,12 +12,12 @@ Format: ![Alt Text](url)
 
 Abb.3
 
-![GitHub Logo](/Images/Beispiel Animation.jpeg)
+![GitHub Logo](/Images/BeispielAnimation.jpeg)
 Format: ![Alt Text](url)
 
 Abb.4 
 
-![GitHub Logo](/Images/Beispiel Animation_2.jpeg)
+![GitHub Logo](/Images/BeispielAnimation_2.jpeg)
 Format: ![Alt Text](url)
 
 Abb.5 
